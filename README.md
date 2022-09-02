@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my new and slightly improved Github Profile. 
+
 
 ### :fire: My Statrs (from 01 Aug 2022):
 
