@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+###:fire: My Statrs :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyamz141)](https://git.io/streak-stats)
+
+
 <!--
 **nyamz141/nyamz141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
