@@ -5,7 +5,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyamz141&theme=dark)](https://git.io/streak-stats) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) \
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyamz141)](https://github.com/anuraghazra/github-readme-stats) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=compact)](https://github.com/anuraghazra/github-readme-stats) \
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=radical)](https://github.com/anuraghazra/github-readme-stats) \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
