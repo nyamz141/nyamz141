@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :fire: My Statrs :
+### :fire: My Statrs (from 01 Aug 2022):
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyamz141&theme=dark)](https://git.io/streak-stats)
 
