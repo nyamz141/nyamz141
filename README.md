@@ -3,7 +3,8 @@
 ### :fire: My Statrs (from 01 Aug 2022):
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyamz141&theme=dark)](https://git.io/streak-stats) \
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
