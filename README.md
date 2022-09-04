@@ -1,8 +1,10 @@
-### Hi there 👋. Welcome to my new and slightly cleaned up Github Profile.
+### Hi there 👋. Welcome to my new and slightly cleaned up Github Profile.  
+**😄 Motto: I'm not perfect, I'm full of flaws and my source of strength is the need to continously improve myself**.  
+
 💬 A little about me:  
 <p>
      My name is Munyaradzi Nyamatore (Munya for short) and i am a very passionate self-taught developer from Asutralia. I love code and everything about        coding because nothing is more satisfying than seeing an idea come to life in a finished product. Over the past few years i have seen my positive          growth and experience in terms of quality of my code as well understanding the architectures. I dont consider myself a big name developer but i do 
-     have a bulldog determination and i seek to continously grow as a developer. 
+     have a bulldog determination and i seek to continously grow as a developer.
 </p>
 
  
