@@ -9,10 +9,11 @@
 
  
 
-### :fire: My Statrs (from 01 Aug 2022):
+### :fire: My Statrs:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nyamz141&theme=dark)](https://git.io/streak-stats) \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyamz141&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) \
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nyamz141&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies i have used. 
 <p align=left>
